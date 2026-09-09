@@ -1,9 +1,11 @@
 ## Hi there 👋
-My name is Sam Kelley! I'm currently a student at Mount Mary University working towards my Cybersecurity certificate.
+##My name is Sam Kelley! I'm currently a student at Mount Mary University working towards my Cybersecurity certificate.
 I am a cybersecurity enthusiast with a strong foundation in network monitoring and incident response. Through hands-on experience with tools like Wireshark and Nmap, I have developed a keen ability to analyze network traffic and identify potential vulnerabilities. Beyond technical analysis, I pride myself on my ability to bridge the gap between complex IT threats and non-technical stakeholders, ensuring clear communication during critical incidents. My technical versatility is further demonstrated by my background in web development and logic-based programming—ranging from building functional websites with HTML to writing code with Python. I am eager to apply this blend of analytical viewpoint and communication excellence to a challenging role in the cybersecurity field.
-Currently, my learning goals include learning data structures to better organize information and to dive into learning Java Script. With these goals in progress, I'm hoping to apply what I learn to the projects I'm working on. The project that I have been working on for a few months now is a Journaling app. 
+Currently, my learning goals include learning data structures to better organize information and to dive into learning Java Script. With these goals in progress, I'm hoping to apply what I learn to the projects I'm working on. The project that I have been working on for a few months now is a Journaling app.
 Here's my Linkedin: https://www.linkedin.com/in/kelleysam/
 Here's a link to my portfolio: https://9000-firebase-samkelleyportfolio-1775517331799.cluster-ocv3ypmyqfbqysslgd7zlhmxek.cloudworkstations.dev/?monospaceUid=283775
+
+
 
 
 <!--
